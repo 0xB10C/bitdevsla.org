@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BitDevs LA</title>
+        <link>https://bitdevsla.org</link>
+        <description>BitDevs LA is a community in the Los Angeles area for those interested in discussing and participating in the research and development of Bitcoin and related protocols.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://bitdevsla.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>Mark &#x27;Murch&#x27; Erhardt and Bitcoin Socratic Seminar #8</title>
+                <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+                <link>https://bitdevsla.org/socratic-seminar-08/</link>
+                <guid>https://bitdevsla.org/socratic-seminar-08/</guid>
+                <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00 Networking&lt;br &#x2F;&gt;
+7:15 Mark &#x27;Murch&#x27; Erhardt&lt;br &#x2F;&gt;
+7:45 Socratic Seminar&lt;br &#x2F;&gt;
+8:45 Clean Up&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.river.com&quot;&gt;River Financial&lt;&#x2F;a&gt; - The best place to buy, sell, and use Bitcoin for the long-term investor.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;sqcrypto&quot;&gt;Square Crypto&lt;&#x2F;a&gt; - Supporting open-source Bitcoin development.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.indiedesk.com&#x2F;&quot;&gt;Indie Desk&lt;&#x2F;a&gt; - The first coworking space in LA. They offer $275 &#x2F; per month 24&#x2F;7 access, 
+month to month, no contract. (&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;indiedesk&quot;&gt;on Twitter&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;search&#x2F;?api=1&amp;amp;query=34.052933%2C-118.251880&quot;&gt;Indie Desk&lt;br &#x2F;&gt;
+333 S Grand Ave #3310&lt;br &#x2F;&gt;
+Los Angeles, CA  &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h4&gt;
+&lt;p&gt;Parking can be difficult in DTLA. If you park in the parking structure at 330 S Hope Street, Indie Desk will give you a $10 parking voucher after 5pm.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guest-speaker&quot;&gt;Guest Speaker&lt;&#x2F;h3&gt;
+&lt;p&gt;Join us as we host Mark &#x27;Murch&#x27; Erhardt who is a Software Engineer at BitGo. He wrote his Master&#x27;s Thesis on Coin 
+Selection which has been merged into Bitcoin Core. He is also an avid contributor and moderator of 
+&lt;a href=&quot;http:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;&quot;&gt;bitcoin stackexchange&lt;&#x2F;a&gt; where people can ask technical Bitcoin questions and the 
+answers are crowdsourced by experts.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guest-links&quot;&gt;Guest Links&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&quot;&gt;Murch on Twitter&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;http:&#x2F;&#x2F;murch.one&#x2F;wp-content&#x2F;uploads&#x2F;2016&#x2F;11&#x2F;erhardt2016coinselection.pdf&quot;&gt;Master&#x27;s Thesis&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;research&quot;&gt;Research&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;statistics&quot;&gt;Statistics&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;bitcoin-prs&quot;&gt;Bitcoin PRs &lt;font color=&quot;#FF9900&quot;&gt;₿&lt;&#x2F;font&gt;&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;lightning-prs-zap&quot;&gt;Lightning PRs ⚡&lt;&#x2F;h4&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Will Reeves and Bitcoin Socratic Seminar #7</title>
+                <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+                <link>https://bitdevsla.org/socratic-seminar-07/</link>
+                <guid>https://bitdevsla.org/socratic-seminar-07/</guid>
+                <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00 Networking&lt;br &#x2F;&gt;
+7:15 Will Reeves&lt;br &#x2F;&gt;
+7:45 Socratic Seminar&lt;br &#x2F;&gt;
+8:45 Clean Up&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.river.com&quot;&gt;River Financial&lt;&#x2F;a&gt; - The best place to buy, sell, and use Bitcoin for the long-term investor.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;sqcrypto&quot;&gt;Square Crypto&lt;&#x2F;a&gt; - Supporting open-source Bitcoin development.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.indiedesk.com&#x2F;&quot;&gt;Indie Desk&lt;&#x2F;a&gt; - The first coworking space in LA. They offer $275 &#x2F; per month 24&#x2F;7 access, 
+month to month, no contract. (&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;indiedesk&quot;&gt;on Twitter&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;search&#x2F;?api=1&amp;amp;query=34.052933%2C-118.251880&quot;&gt;Indie Desk&lt;br &#x2F;&gt;
+333 S Grand Ave #3310&lt;br &#x2F;&gt;
+Los Angeles, CA  &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h4&gt;
+&lt;p&gt;Parking can be difficult in DTLA. If you park in the parking structure at 330 S Hope Street, Indie Desk will give you a $10 parking voucher after 5pm.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guest-speaker&quot;&gt;Guest Speaker&lt;&#x2F;h3&gt;
+&lt;p&gt;Will Reeves is the CEO of Fold. His previous work experience includes serving as a Venture Lead and Product Manager at 
+Beyond, a product design studio that worked with Google Store, Google Cloud, and Marketo.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guest-links&quot;&gt;Guest Links&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;wlrvs&quot;&gt;Will Reeves on Twitter&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;fold_app&quot;&gt;Fold App on Twitter&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;research&quot;&gt;Research&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;statistics&quot;&gt;Statistics&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;bitcoin-prs&quot;&gt;Bitcoin PRs &lt;font color=&quot;#FF9900&quot;&gt;₿&lt;&#x2F;font&gt;&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;lightning-prs-zap&quot;&gt;Lightning PRs ⚡&lt;&#x2F;h4&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Elizabeth Stark and Bitcoin Socratic Seminar #6</title>
+                <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+                <link>https://bitdevsla.org/socratic-seminar-06/</link>
+                <guid>https://bitdevsla.org/socratic-seminar-06/</guid>
+                <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00 Networking&lt;br &#x2F;&gt;
+7:15 Elizabeth Stark interview with Andrew Yang&lt;br &#x2F;&gt;
+7:45 Audience Questions&lt;br &#x2F;&gt;
+8:00 Mini Socratic Seminar&lt;br &#x2F;&gt;
+8:30 End&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.river.com&quot;&gt;River Financial&lt;&#x2F;a&gt; - The best place to buy, sell, and use Bitcoin for the long-term investor. &lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;search&#x2F;?api=1&amp;amp;query=34.074400%2C-118.439090&quot;&gt;UCLA Luskin School of Public Affairs&lt;br &#x2F;&gt;
+337 Charles E Young Dr E&lt;br &#x2F;&gt;
+Los Angeles, CA  &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h4&gt;
+&lt;p&gt;You can park at the UCLA Law school right next to the Public Affairs building&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;how-to-find-us&quot;&gt;How to find us&lt;&#x2F;h4&gt;
+&lt;p&gt;Look for the Public Affairs Building Room #1246&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guest-speaker&quot;&gt;Guest Speaker&lt;&#x2F;h3&gt;
+&lt;p&gt;We&#x27;re excited to have Elizabeth Stark from Lightning Labs join us for a Q&amp;amp;A about Lightning! Elizabeth is a huge fan of open source, decentralized protocols. She taught at Stanford and Yale where her students studied peer-to-peer technology, privacy, open source software, and memes. She has been an active contributor to the bitcoin community, an advisor to startups in areas ranging from cryptocurrency to decentralized technology to AI, and is a fellow at Coin Center. She has a law degree from Harvard and is an avid listener of electronic music.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guest-links&quot;&gt;Guest Links&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;starkness&quot;&gt;Starkness on Twitter&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;lightning.engineering&quot;&gt;Lighntning Labs&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lightning.engineering&#x2F;announcement&#x2F;2020&#x2F;01&#x2F;21&#x2F;lnd-v0.9.html&quot;&gt;lnd v0.9-beta&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;sqcrypto&#x2F;status&#x2F;1219669471369089024&quot;&gt;Square Crypto announces LDK&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Will be based on rust-bitcoin projects&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;remembering-tamas-blummer-pioneering-bitcoin-developer&quot;&gt;RIP Tamás Blummer&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin developer since 2012&lt;&#x2F;li&gt;
+&lt;li&gt;founder of groundbreaking projects in rust-bitcoin and defiads&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;research&quot;&gt;Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;how-payswap-can-confuse-blockchain-analysts-benefiting-bitcoin-privacy-for-all&quot;&gt;Payswap&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;statistics&quot;&gt;Statistics&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinvisuals.com&#x2F;lightning&quot;&gt;lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinvisuals.com&#x2F;stats&quot;&gt;bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-prs&quot;&gt;Bitcoin PRs &lt;font color=&quot;#FF9900&quot;&gt;₿&lt;&#x2F;font&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;10112#issuecomment-572571428&quot;&gt;Yubikey Secp256k1 support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Schnorr, Taproot, Tapscript
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;876&quot;&gt;Add BIPs 340-342&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;2020-and-beyond-bitcoins-potential-protocol-upgrades&quot;&gt;Bitcoin Magazine Article&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17975&quot;&gt;Miniscript on test framework&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-prs-zap&quot;&gt;Lightning PRs ⚡&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Snyke&#x2F;status&#x2F;1213180339767664641?s=20&quot;&gt;Fault tolerant databases for Lightning nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3795&quot;&gt;Keysend&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3957&quot;&gt;Add AMP record&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3833&quot;&gt;Introduce database abstraction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3915&quot;&gt;Disallow circular routes on same channel&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3955&quot;&gt;Consider HTLC sweep cost when going to chain&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Nik Bhatia and Bitcoin Socratic Seminar #5</title>
+                <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+                <link>https://bitdevsla.org/socratic-seminar-05/</link>
+                <guid>https://bitdevsla.org/socratic-seminar-05/</guid>
+                <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;6:30 Setup&lt;br &#x2F;&gt;
+7:00 Socialize and networking&lt;br &#x2F;&gt;
+7:15 Nik Bhatia&lt;br &#x2F;&gt;
+7:45pm Socratic Seminar&lt;br &#x2F;&gt;
+8:30- Social TBD&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.river.com&quot;&gt;River Financial&lt;&#x2F;a&gt; - The best place to buy, sell, and use Bitcoin for the long-term investor. &lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;1027 S Main St Suite 125, Los Angeles, CA 90015&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guest-speaker&quot;&gt;Guest Speaker&lt;&#x2F;h3&gt;
+&lt;p&gt;We&#x27;re excited to have Nik Bhatia from Open Node and Tantra Labs join us as a speaker! He is a prolific researcher and writer. Some of his most well-known pieces of work revolve include the reference rate for Lightning routing nodes as well as his critique on the bond market.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@timevalueofbtc&#x2F;the-lightning-network-reference-rate-98e41a9dadfa&quot;&gt;&amp;quot;The Lightning Network Reference Rate&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@timevalueofbtc&#x2F;the-lightning-network-why-i-quit-the-bond-market-for-bitcoin-12693120039f&quot;&gt;&amp;quot;The Lightning Network: Why I Quit the Bond Market for Bitcoin&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blockstream.info&#x2F;address&#x2F;bc1pqyqszqgpqyqszqgpqyqszqgpqyqszqgpqyqszqgpqyqszqgpqyqs3wf0qm&quot;&gt;SegWit v.1 transaction locked up.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;en&#x2F;release&#x2F;v0.19.0.1#mempool-and-transaction-relay&quot;&gt;Mempool and transaction relay&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;TraceMayer&#x2F;status&#x2F;1213140491232956417?s=20&quot;&gt;Proof of Keys Day&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bottlepay.helpscoutdocs.com&#x2F;article&#x2F;40-official-announcement-on-the-shutdown-of-bottle-pay&quot;&gt;BottlePay Shuts down&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;jfnewbery&#x2F;status&#x2F;1208559196465184768?s=20&quot;&gt;John Newberry’s &amp;quot;looking back&amp;quot; Thread&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;nakamoto&#x2F;status&#x2F;1213336796379205632&quot;&gt;Nakamoto.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@nic__carter&#x2F;an-introduction-to-the-efficient-market-hypothesis-for-bitcoiners-ed7e90be7c0d&quot;&gt;Efficient Market Hypothesis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.givebitcoin.io&#x2F;the-give-bitcon-guide-introduction-what-is-bitcoin&#x2F;&quot;&gt;Give Bitcoin Chapter 1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;stats&quot;&gt;Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;luke.dashjr.org&#x2F;programs&#x2F;bitcoin&#x2F;files&#x2F;charts&#x2F;historical.html&quot;&gt;Node History&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lopp&#x2F;status&#x2F;1212409788300173313?s=20&quot;&gt;IBD 1 Year Graph&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work &amp;amp; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;suredbits.com&#x2F;payment-points-part-1&#x2F;&quot;&gt;Payment Points with Schnorr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-prs&quot;&gt;Bitcoin PRs&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17631&quot;&gt;Compact Block Filters over REST&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;17605&quot;&gt;Address reuse bug from a single key&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-prs-zap&quot;&gt;Lightning PRs ⚡&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;3390&quot;&gt;c-lightning: Manually negotiate closing fees (c-lightning)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;91755&#x2F;private-agreement-between-two-c-lightning-nodes-on-channel-closure-fee&quot;&gt;“private” agreement between two c-lightning nodes on channel closure fee&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;issues&#x2F;3270&quot;&gt;c-lightning: Setting manual channel closure fee (question)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3773&quot;&gt;lnd: Anchor Outputs (allows CPFP)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3812&quot;&gt;lnd: Signing with custom keys&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;3369&quot;&gt;c-lightning: Push m_sat&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Bitcoin Socratic Seminar #4</title>
+                <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+                <link>https://bitdevsla.org/socratic-seminar-04/</link>
+                <guid>https://bitdevsla.org/socratic-seminar-04/</guid>
+                <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00 Socratic Seminar where we review various Bitcoin topics&lt;br &#x2F;&gt;
+7:45pm- Clean up and leave by 8pm.&lt;br &#x2F;&gt;
+8:00- Social at &lt;a href=&quot;https:&#x2F;&#x2F;m.yelp.com&#x2F;biz&#x2F;seven-grand-los-angeles&quot;&gt;7 grand lounge&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.river.com&quot;&gt;River Financial&lt;&#x2F;a&gt; - The best place to buy, sell, and use Bitcoin for the long-term investor.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;WeWork Fine Arts will be hosting the event at the following address:&lt;br &#x2F;&gt;
+811 W. 7th Street (12th floor)&lt;br &#x2F;&gt;
+Los Angeles, CA 90017&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;FigAt7th • 945 W. 8th Street&lt;br &#x2F;&gt;
+Validated if parking on L1, L2, L3&lt;br &#x2F;&gt;
+1 hr for $1, 2 hrs for $2.50, 3 hrs for $4&lt;br &#x2F;&gt;
+5 minute walking distance.&lt;&#x2F;p&gt;
+&lt;p&gt;or&lt;&#x2F;p&gt;
+&lt;p&gt;Target&lt;br &#x2F;&gt;
+943 W 8th St, Los Angeles, CA 90017&lt;br &#x2F;&gt;
+Validated for 3 hours if you buy something at Target.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;shiftcrypto&#x2F;a-ransom-attack-on-coldcards-change-and-keypath-verification-f3c71461624a&quot;&gt;Ransom Attack on Coldcard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.coinkite.com&#x2F;troublesome-change&#x2F;&quot;&gt;Troublesome Change Outputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;bitcoin-mining-in-north-america-a-new-gold-rush-in-the-new-world&quot;&gt;Bitcoin Mining in North America&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;0.19.0.1&#x2F;&quot;&gt;Bitcoin Core 0.19.0.1 Release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;the new bip157 getblockfilters. it&#x27;s a first step to better btc&#x2F;ln light clients.. with some interesting pros&#x2F;cons&lt;&#x2F;li&gt;
+&lt;li&gt;bip37&#x2F;bip111 bloom filters is official off by default.. we discussed it last meeting.. but I didn&#x27;t know there is also a dos issue associated with why it was turned off
+for the P2P changes, this is new and interesting: By default, Bitcoin Core will now make two additional outbound connections that are exclusively used for block-relay. it&#x27;s to prevent partitioning attacks.. but doesn&#x27;t say how. I think since they won&#x27;t be blocked by spam tx or other messages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;nayuta-en&#x2F;running-a-lnd-along-side-bitcoind-on-android-779dcf4e16bb&quot;&gt;Nayuta releases full node and spv mobile bitcoin wallet.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Snyke&#x2F;status&#x2F;1206715011105722368?s=20&quot;&gt;C-lightning release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;stats&quot;&gt;Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;txstats.com&#x2F;dashboard&#x2F;db&#x2F;fee-estimation?orgId=1&quot;&gt;Fee Estimation Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ln.bigsun.xyz&#x2F;&quot;&gt;LN Big Sun Explorer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work &amp;amp; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;bitcoins-initial-block-download&#x2F;&quot;&gt;Bitcoin’s Initial Block Download&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2019-December&#x2F;017521.html&quot;&gt;Analysis of Bech32 swap&#x2F;insert&#x2F;delete detection and next steps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2019-November&#x2F;002350.html&quot;&gt;BOLT 13 Watchtower Protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2019-November&#x2F;017493.html&quot;&gt;Composable MuSig&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;1911.08803.pdf&quot;&gt;How to profit from payment channels&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;suredbits.com&#x2F;payment-points-part-1&#x2F;&quot;&gt;Payment Points with Schnorr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&quot;&gt;Rust Bitcoin Projects&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Early project, active contributors include: Polstra, Roose, Corallo, Blumer, etc.. &lt;&#x2F;li&gt;
+&lt;li&gt;Goals? “written entirely in Rust to illustrate the benefits of strong type safety, including ownership and lifetime, for financial and&#x2F;or cryptographic software.”&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-prs&quot;&gt;Bitcoin PRs&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17449&quot;&gt;fix uninitialized variable nMinerConfirmationWindow&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17449&quot;&gt;Remove unused COINBASE_FLAGS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17437&#x2F;files&quot;&gt;Expose height of wallet transaction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16440&quot;&gt;BIP-322 generic signed message format&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16945&quot;&gt;Assume UTXO Work&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17577&#x2F;files&quot;&gt;Deduplicate sign&#x2F;verify code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&#x2F;pull&#x2F;693&quot;&gt;Signed-digit multi-comb for ecmult_gen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-prs-zap&quot;&gt;Lightning PRs ⚡&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;3155&quot;&gt;c-lightning: generate a static tor onion address unique to the node id&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;3315&quot;&gt;c-lightning: Add a sendcustommsg RPC call and a custommsg plugin hook for experimental protocol extensions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;3309&quot;&gt;c-lightning: experimental MPP send and receive support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3795&quot;&gt;lnd: experimental key send mode&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3742&quot;&gt;lnd: invoices - expose custom tlv records from the payload&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3702&quot;&gt;lnd: add optional close address&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lightning-rfc&#x2F;pull&#x2F;714&quot;&gt;LN Spec: Bolt 1: Specify that extensions to existing messages must use TLV&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Bitcoin Socratic Seminar #3</title>
+                <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://bitdevsla.org/socratic-seminar-03/</link>
+                <guid>https://bitdevsla.org/socratic-seminar-03/</guid>
+                <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;6pm- Meet and Greet&lt;br &#x2F;&gt;
+6:30pm- Socratic Seminar where we review various Bitcoin topics&lt;br &#x2F;&gt;
+7:45pm- Clean up and leave by 8pm.&lt;br &#x2F;&gt;
+8:00- Social TBD&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.river.com&#x2F;&quot;&gt;River Financial&lt;&#x2F;a&gt; - The best place to buy, sell, and use Bitcoin for the long-term investor.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;centrloffice.com&#x2F;&quot;&gt;CENTRL Office&lt;&#x2F;a&gt; was created to inspire people to do the best work of their lives. 
+They wanted to make a creative productive workspace that was comfortable like a pair of blue jeans. 
+One with the social feeling of a coffee house, the efficiency of a factory, and the service of a hotel. 
+A co-working space where people can do great good work. They call it CENTRL Office. 
+Get your &lt;a href=&quot;https:&#x2F;&#x2F;explore.centrloffice.com&#x2F;free-day-pass-dtla&#x2F;&quot;&gt;FREE DAY PASS&lt;&#x2F;a&gt; to experience it for yourself!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;CentrlOffice will be hosting the event at the following address.&lt;&#x2F;p&gt;
+&lt;p&gt;360 E. 2nd Street, 8th Floor&lt;br &#x2F;&gt;
+Los Angeles, CA 90012&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;$5 to park in the lots right next to CentrlOffice.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;bitcoin-news&quot;&gt;Bitcoin News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;master&#x2F;doc&#x2F;release-notes&#x2F;release-notes-0.19.0.md&quot;&gt;Bitcoin 0.19.0 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;TuurDemeester&#x2F;status&#x2F;1192443398701101057&quot;&gt;Bitcoin Reformation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lightning.engineering&#x2F;posts&#x2F;2019&#x2F;11&#x2F;07&#x2F;routing-guide-2.html&quot;&gt;Lightning Routing Node Operator Guide&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevsla.org&#x2F;socratic-seminar-03&#x2F;www.boltathon.com&quot;&gt;Bolt-A-Thon 2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1FadCWj-57dvhxsnFM_7X806qyvhR0u3i85607bGHxvg&#x2F;edit&quot;&gt;Slush Pool Stratum 2 Spec&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;snicker-how-alice-and-bob-can-mix-bitcoin-with-no-interaction&quot;&gt;SNICKER&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;ElectrumWallet&#x2F;status&#x2F;1193173926442078213&quot;&gt;Electrum &amp;amp; PSBT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;blockstream-green-wallet-adds-early-access-tor-integration&quot;&gt;Tor integration on Green&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bitcoin.craighammell.com&#x2F;&quot;&gt;Never look back price&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitaps.com&#x2F;blocks&quot;&gt;Block stats&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dashboard.bitcoinops.org&#x2F;d&#x2F;xVQwtADiz&#x2F;segwit-usage-trends?refresh=1h&amp;amp;orgId=1&quot;&gt;Segwit Usage trends&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work&#x2F; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2019-November&#x2F;017443.html&quot;&gt;Bech 32 weakness&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2019-November&#x2F;002275.html&quot;&gt;Proposal for upfront LN payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;blockstream&#x2F;reducing-bitcoin-transaction-sizes-with-x-only-pubkeys-f86476af05d7&quot;&gt;Reducing Bitcoin Tx Sizes with x-only Pubkeys&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BlockchainCommons&#x2F;secp256k1-schnorrsig&quot;&gt;Optimized C library for EC operations on curve secp256k1 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BlockchainCommons&#x2F;Bitcoin-Standup&quot;&gt;Bitcoin Standup&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ajtowns&#x2F;taproot-review&quot;&gt;Review new BIPs: Taproot+Tapscript+Schnorr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-pr-s&quot;&gt;Bitcoin PR’s&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16442&quot;&gt;BIP157 Status&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16902&quot;&gt;O(1) OP_IF&#x2F;NOTIF&#x2F;ELSE&#x2F;ENDIF script implementation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17331&quot;&gt;Use effective values throughout coin selection&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17165&quot;&gt;Remove BIP 70 Support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17265&quot;&gt;Remove OpenSSL&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17268&quot;&gt;Epoch Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;17218&quot;&gt;Replace the LogPrint function with a macro&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16943&quot;&gt;test: Add generatetodescriptor RPC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-pr-s&quot;&gt;Lightning PR’s&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;issues&#x2F;3558&quot;&gt;routing: non-strict path finding&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;3186&quot;&gt;C-lightning: hsmtools for c-lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3556&quot;&gt;LND: routerrpc: add queryprob rpc&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3655&quot;&gt;LND: Add Option Upfront Shutdown&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3415&quot;&gt;LND: htlcswitch+invoices: allow settling invoices via multi-path payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3499&quot;&gt;LND: channeldb+rpcserver: expose legacy payments as multi-path payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3659&quot;&gt;LND: chanfunding: create new package to abstract over funding workflows&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3601&quot;&gt;LND: implement “safe mode” node stand up&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;q-and-a&quot;&gt;Q and A&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;dragonfly-research&#x2F;breaking-mimblewimble-privacy-model-84bcd67bfe52&quot;&gt;Breaking MW’s privacy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Steve Myers and Bitcoin Socratic Seminar #2</title>
+                <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+                <link>https://bitdevsla.org/socratic-seminar-02/</link>
+                <guid>https://bitdevsla.org/socratic-seminar-02/</guid>
+                <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;6pm- Meet and Greet&lt;br &#x2F;&gt;
+6:15pm- Speaker Presentation&lt;br &#x2F;&gt;
+6:45pm- Socratic Seminar where we review various Bitcoin topics&lt;br &#x2F;&gt;
+7:45pm- Clean up and leave by 8pm.&lt;br &#x2F;&gt;
+8:00- Social at &lt;a href=&quot;https:&#x2F;&#x2F;m.yelp.com&#x2F;biz&#x2F;seven-grand-los-angeles&quot;&gt;7 Grand Lounge&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;WeWork Fine Arts will be hosting the event at the following address.&lt;&#x2F;p&gt;
+&lt;p&gt;811 W. 7th Street&lt;br &#x2F;&gt;
+Los Angeles, CA 90017&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;FigAt7th • 945 W. 8th Street&lt;br &#x2F;&gt;
+Validated if parking on L1, L2, L3&lt;br &#x2F;&gt;
+1 hr for $1, 2 hrs for $2.50, 3 hrs for $4&lt;br &#x2F;&gt;
+5 minute walking distance.&lt;&#x2F;p&gt;
+&lt;p&gt;or&lt;&#x2F;p&gt;
+&lt;p&gt;Target&lt;br &#x2F;&gt;
+943 W 8th St, Los Angeles, CA 90017&lt;br &#x2F;&gt;
+Validated for 3 hours if you buy something at Target.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guest-speaker&quot;&gt;Guest Speaker&lt;&#x2F;h3&gt;
+&lt;p&gt;Steve Myers is co-founder of Bytabit AB and a senior software engineer at Disney Studios.&lt;&#x2F;p&gt;
+&lt;p&gt;Steve will talk about the genesis and development of the Bytabit project, a new mobile peer to peer non-custodial bitcoin exchange.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;bitcoin-news&quot;&gt;Bitcoin News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;bakkt-blog&#x2F;cleared-to-launch-8dfc3e6f9ed0&quot;&gt;Bakkt cleared to launch Bitcoin futures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;btc&#x2F;comments&#x2F;csfa1m&#x2F;there_is_something_going_on_with_bitcoin_twitter&#x2F;&quot;&gt;@bitcoin switches to BTC instead of BCH&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;TheBlueMatt&#x2F;status&#x2F;1163852530142654464&quot;&gt;Matt Corallo joins SqCrypto&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Snyke&#x2F;status&#x2F;1163875781833084929&quot;&gt;Plug-in Manager for C-lightning.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;renepickhardt&#x2F;status&#x2F;1166750972665679872?s=20&quot;&gt;Mastering Lightning in development!&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_JustinMoon_&#x2F;status&#x2F;1166905722325667841?s=20&quot;&gt;Simple GUI for musig wallet.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2019-September&#x2F;002134.html&quot;&gt;Avoiding gossip Spam&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2019-August&#x2F;002130.html&quot;&gt;Lightning Vulnerability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.unchained-capital.com&#x2F;blog&#x2F;a-hermit-emerges&#x2F;&quot;&gt;Hermit: sharded, air-gapped wallet&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Create diff. Spending conditions with diff. Groups that combine together to spend the txn.  Makes restrictive spending a lot more flexible.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;BitMEXResearch&#x2F;status&#x2F;1166010048046358529?s=20&quot;&gt;BitMEXResearch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;ecurrencyhodler&#x2F;status&#x2F;1166027713380929543?s=20&quot;&gt;ecurrencyhodler (do a thought experiment)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;meetbitfury&#x2F;report-on-international-bitcoin-flows-by-crystal-analytics-5cc3c506ac3f&quot;&gt;Most onchain volume on exchanges&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;crystalblockchain.com&#x2F;assets&#x2F;reports&#x2F;International%20Bitcoin%20Flows%20Report%20for%202013-2019%20-%20by%20Crystal%20Blockchain,%20Bitfury.pdf&quot;&gt;crystalblockchain.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinist.com&#x2F;bitcoin-hash-rate-nearing-100000000-th-s-in-historic-first&#x2F;&quot;&gt;Hashing Power Update: Bitcoin Hits 100 Exahashes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work&#x2F; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lightning.engineering&#x2F;posts&#x2F;2019&#x2F;08&#x2F;15&#x2F;routing-quide-1.html&quot;&gt;Lightning Labs Node Operator Guideline&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Miniscript
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem&lt;&#x2F;strong&gt;: Hard to write advanced scripting language and know it’s correct.  People copy paste code that works for their own purposes.  Not very efficient.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Solution&lt;&#x2F;strong&gt;: Miniscript compiles script for users and even makes it more efficient and will make sure it’s correct and even compile it for you.  It also increases interoperability between different wallets by providing a standard and checking scripts because it makes sure everything is correct.  Previously, fear that counterparties do not (or will not) have the software to recognize and spend the coins controlled by the policy.&lt;&#x2F;li&gt;
+&lt;li&gt;What Miniscript enables is writing software that works with generic scripts. It lets you participate in signing any script you have keys for, while also letting you analyse what someone&#x27;s script does (if they want to include you in their setup).&lt;&#x2F;li&gt;
+&lt;li&gt;Miniscript is able to express all possible conjunctions&#x2F;disjunctions&#x2F;thresholds of timelocks&#x2F;hashlocks&#x2F; and (pay2)public keys.&lt;&#x2F;li&gt;
+&lt;li&gt;Miniscript usable today&lt;&#x2F;li&gt;
+&lt;li&gt;One important way Miniscript differs from regular Script is that Miniscript describes the conditions under which coins can be spent, while Script describes the actions that a Script interpreter must take.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bitcoin.sipa.be&#x2F;miniscript&#x2F;&quot;&gt;sipa on miniscript&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;miniscript-how-blockstream-engineers-are-making-bitcoin-programming-easyer&quot;&gt;Miniscript: How Blockstream Engineers Are Making Bitcoin Programming Easy(er)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;pwuille&#x2F;status&#x2F;1163592166062473217&quot;&gt;pwuille on twitter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Bitcoin&#x2F;comments&#x2F;cspjt8&#x2F;miniscript_enabling_composition_and_analysis_of&#x2F;&quot;&gt;Miniscript: enabling composition and analysis of Bitcoin Script on reddis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Blockstream&#x2F;status&#x2F;1170351002589040640&quot;&gt;blockstream on twitter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Distributed storage and messaging&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;dr_orlovsky&#x2F;status&#x2F;1162417145361383424?s=21&quot;&gt;L3 (a way to provide data storage to people using LN in a decentralized way).&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;etscrivner&#x2F;status&#x2F;1167470914327470080?s=20&quot;&gt;BTC Script decoder&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.keys.casa&#x2F;crypto-101-eltoo&#x2F;&quot;&gt;Eltoo, the Lightning improvement proposal that removes the possibility of stolen funds via malicious channel state publishing.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Previously relied on HTLC’s, el too allows you simply to update the channel itself.  Also allows you to update fees in case fee market explodes.&lt;&#x2F;li&gt;
+&lt;li&gt;Chaincode summer resident prototype @remyers_  (currently being tested)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2019-September&#x2F;002131.html&quot;&gt;eltoo implementation in Bitcoin functional test framework&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2019-September&#x2F;002136.html&quot;&gt;Reconciling the off-chain and on-chain models with eltoo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-pr-s&quot;&gt;Bitcoin PR’s&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;API in RUST to fetch headers and blocks from a REST Endpoint.  REST endpoint can be URL’s people use for specific API’s.  One problem is if it’s a unique URL, can be taken down.  Could prevent it by using github as the main domain.  Adds redundancy to P2P network. &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Y_deGaia&#x2F;status&#x2F;1160587490887196673&quot;&gt;Problem: ISP can block bitcoin specific info.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16762&quot;&gt;Solution is to have dedicated url’s to serve headers&#x2F;blocks.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-pr-s&quot;&gt;Lightning PR’s&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3462&quot;&gt;LND: improve prob. estimation for untried connections&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;3040&quot;&gt;C-lightning: Gossip Rate Limiting&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2019-September&#x2F;002134.html&quot;&gt;Avoiding gossip spam: how many updates do you need?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Eric Scrivner and Socratic Seminar #1</title>
+                <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+                <link>https://bitdevsla.org/socratic-seminar-01/</link>
+                <guid>https://bitdevsla.org/socratic-seminar-01/</guid>
+                <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;6pm- Meet and Greet&lt;br &#x2F;&gt;
+6:15pm- Eric Scrivner&#x27;s Presentation&lt;br &#x2F;&gt;
+6:45pm- Socratic Seminar where we review various Bitcoin topics&lt;br &#x2F;&gt;
+7:45pm- Clean up and leave by 8pm.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;WeWork Fine Arts will be hosting the event at the following address.&lt;&#x2F;p&gt;
+&lt;p&gt;811 W. 7th Street&lt;br &#x2F;&gt;
+Los Angeles, CA 90017&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;FigAt7th • 945 W. 8th Street&lt;br &#x2F;&gt;
+Validated if parking on L1, L2, L3&lt;br &#x2F;&gt;
+1 hr for $1, 2 hrs for $2.50, 3 hrs for $4&lt;br &#x2F;&gt;
+5 minute walking distance.&lt;&#x2F;p&gt;
+&lt;p&gt;or&lt;&#x2F;p&gt;
+&lt;p&gt;Target&lt;br &#x2F;&gt;
+943 W 8th St, Los Angeles, CA 90017&lt;br &#x2F;&gt;
+Validated for 3 hours if you buy something at Target.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guest-speaker&quot;&gt;Guest Speaker&lt;&#x2F;h3&gt;
+&lt;p&gt;Eric Scrivner, Coinbase engineer, will be talking about forks, what they are, how exchanges can protect against them, and how to protect against their negative outcomes.&lt;&#x2F;p&gt;
+&lt;p&gt;Eric was tasked with implementing replay protection for BCH&#x2F;BSV&#x2F;S2x and so has a wealth of experience.&lt;&#x2F;p&gt;
+&lt;p&gt;He&#x27;ll also touch on why Bitcoin is so averse to hardforks.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our very first Socratic Seminar!&lt;&#x2F;p&gt;
+&lt;p&gt;Inspired by Bitdevs NY, this is an event for those interested in discussing and participating in the research and development of Bitcoin and related protocols. The Socratic Seminar events are formatted to foster debate, information sharing, and lively discussion.&lt;&#x2F;p&gt;
+&lt;p&gt;Discussion topics from a variety of sources are collated by meetup members in the weeks preceding the events. We investigate pull requests in the Bitcoin Core, lnd, and other relevant repositories; we study network statistics, research papers, technical blog posts and other interesting content. To complete the meeting, members present open source projects, companies, research and other relevant materials. A feedback and Q&amp;amp;A section follow.&lt;&#x2F;p&gt;
+&lt;p&gt;Please contact the organizers if you&#x27;d like to present at the Socratic event or have a recommended topic for discussion: ecurrencyhodler at gmail.&lt;&#x2F;p&gt;
+&lt;p&gt;A post will be made the day of the event which outlines discussion topics. Archives of discussion topics and presentations can be found in the event descriptions of past meetups. The discussion portion of the event is NEVER recorded. It is recommended that you have a firm grasp of the basics of Bitcoin in order to extract the most value from our Socratic events.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;bitcoin-news&quot;&gt;Bitcoin News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blockstream.com&#x2F;2019&#x2F;07&#x2F;29&#x2F;en-tether-lands-on-the-liquid-network&#x2F;&quot;&gt;USDT on Liquid&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;August 1 Bitcoin Independence day.&lt;&#x2F;li&gt;
+&lt;li&gt;BCH hard forked.&lt;&#x2F;li&gt;
+&lt;li&gt;UASF activate for BIP 148&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;BitcoinMagazine&#x2F;status&#x2F;1157327092146683904?s=20&quot;&gt;17 MM btc have been mined&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;zkSNACKs&#x2F;WalletWasabi&#x2F;pull&#x2F;2006&quot;&gt;Wasabi Wallet Manual tx fee setting&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;bitcoin-devwiki&#x2F;wiki&#x2F;P2P-Design-Philosophy&quot;&gt;Core DevWiki including design philosophy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;ktorpey&#x2F;2019&#x2F;08&#x2F;08&#x2F;blockstream-reveals-massive-bitcoin-mining-facilities-fidelity-an-early-customer&#x2F;#610265ae4f3f&quot;&gt;Blockstream’s Mining Facility&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stephanlivera.com&#x2F;episode&#x2F;97&#x2F;&quot;&gt;Stephan Livera’s Podcast with Michael Flaxman&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2019&#x2F;07&#x2F;31&#x2F;&quot;&gt;Bech32 usage from Bitcoin optech&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;coinmetrics&#x2F;status&#x2F;1156183016655511553?s=20&quot;&gt;Outflow of Bitmex&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work&#x2F; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.coindesk.com&#x2F;the-vault-is-back-bitcoin-coder-to-revive-plan-to-shield-wallets-from-theft&quot;&gt;Bryan Bishop’s Vault&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-pr-s&quot;&gt;Bitcoin PR’s&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16152&quot;&gt;Disable Bloom Filters by Default&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16442&quot;&gt;Neutrino final PR&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;JackMallers&#x2F;status&#x2F;1156250188106883072&quot;&gt;JackMallers on Twitter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16528&quot;&gt;Native Descriptor Wallets&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16512&quot;&gt;Shuffle inputs and outputs after joining psbts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-pr-s&quot;&gt;Lightning PR’s&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3367&quot;&gt;Batched Graph Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3358&quot;&gt;Mainnet Neutrino&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3164&quot;&gt;“Persistent mission control”.  Routing Success history saved directly to disk&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;2708&quot;&gt;Custom setting channel reserve (previously hard coded to 1%).&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lightning-rfc&#x2F;pull&#x2F;654&quot;&gt;Trampoline Payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;2771&quot;&gt;C-lightning run and stop plug-ins while c-lightning is running.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;2885&quot;&gt;Avoid thundering herd&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;q-and-a&quot;&gt;Q and A&lt;&#x2F;h4&gt;
+&lt;p&gt;How to earn lightning routing fees?&lt;br &#x2F;&gt;
+What is the minimum amount of BTC that is not considered dust?&lt;br &#x2F;&gt;
+How do I consolidate my dust?  &lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
